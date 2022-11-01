@@ -1,0 +1,22 @@
+*{
+    background-color:black;
+    color:aliceblue;
+    text-align: center;
+    font-family:'Silkscreen';
+}
+#img1{
+        border-radius: 100px;
+        border: solid 10px;
+        border-color: rgb(53, 45, 45);
+        
+}
+
+h2{
+    color:rgb(79, 68, 143);
+    font-size: 400%;
+    font-style: oblique;
+}
+
+.titulo{
+    color: blue;
+}
